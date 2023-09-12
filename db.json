@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Mike",
+      "lastname": "Nieva"
+    },
+    {
+      "id": 2,
+      "name": "Sarah",
+      "lastname": "Alfonsin"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone"
+    }
+  ]
+}
